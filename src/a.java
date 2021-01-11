@@ -1,3 +1,5 @@
+import com.sun.org.apache.xpath.internal.SourceTree;
+
 /**
  * ClassName:a
  * Package:PACKAGE_NAME
@@ -7,5 +9,8 @@
  * @Author:jiaqi@163.com
  */
 public class a {
-
+    // demo
+    public static void main(String[] args) {
+        System.out.println("HelloWorld");
+    }
 }
